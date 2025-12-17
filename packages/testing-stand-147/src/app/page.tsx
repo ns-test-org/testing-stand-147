@@ -218,7 +218,7 @@ export default function TodoApp() {
                   darkMode ? 'text-white' : 'text-gray-800'
                 }`}
               >
-                ✨ Task Master
+                ✨ Task Master v2
               </h1>
               <p className={`${darkMode ? 'text-gray-400' : 'text-gray-500'}`}>
                 Organize your life, one task at a time
@@ -810,4 +810,5 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
